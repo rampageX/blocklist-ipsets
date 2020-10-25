@@ -1,0 +1,284 @@
+[
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 41902,
+		"common": 2
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1057,
+		"common": 1
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 16647,
+		"common": 1
+	},
+	{
+		"name": "botscout_7d",
+		"category": "abuse",
+		"ips": 4634,
+		"common": 1
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 1000,
+		"common": 500
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 990,
+		"common": 500
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 27822,
+		"common": 500
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 6732,
+		"common": 500
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 500,
+		"common": 500
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 15500,
+		"common": 500
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 3500,
+		"common": 500
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 20
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 19429183,
+		"common": 2
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 19422720,
+		"common": 2
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 7230,
+		"common": 500
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 173058,
+		"common": 500
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 619477723,
+		"common": 3
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 37747,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9276062,
+		"common": 6
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 47666271,
+		"common": 13
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 4617,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 25
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227993542,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8802048,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 7
+	},
+	{
+		"name": "iblocklist_isp_cablevision",
+		"category": "organizations",
+		"ips": 1787136,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_charter",
+		"category": "organizations",
+		"ips": 6138112,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 50
+	},
+	{
+		"name": "iblocklist_isp_qwest",
+		"category": "organizations",
+		"ips": 15777552,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_isp_twc",
+		"category": "organizations",
+		"ips": 15015936,
+		"common": 17
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
+		"common": 19
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 723113095,
+		"common": 13
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114578,
+		"common": 17
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137274383,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 19422720,
+		"common": 2
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 37994,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 5492,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 47641998,
+		"common": 13
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 156
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
+		"common": 26
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6375029,
+		"common": 3
+	},
+	{
+		"name": "sorbs_zombie",
+		"category": "spam",
+		"ips": 1903876,
+		"common": 1
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 19422720,
+		"common": 2
+	},
+	{
+		"name": "spamhaus_edrop",
+		"category": "reputation",
+		"ips": 968704,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 143984,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 261096,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 525859,
+		"common": 1
+	}
+]
